@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Ander Egurtzegi</title>
+    <link>https://egurtzegi.github.io/projects/</link>
+      <atom:link href="https://egurtzegi.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://egurtzegi.github.io/img/avatar.jpg</url>
+      <title>Projects</title>
+      <link>https://egurtzegi.github.io/projects/</link>
+    </image>
+    
+  </channel>
+</rss>

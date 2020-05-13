@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teaching | Ander Egurtzegi</title>
+    <link>https://egurtzegi.github.io/teaching/</link>
+      <atom:link href="https://egurtzegi.github.io/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <description>Teaching</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 06 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://egurtzegi.github.io/img/avatar.jpg</url>
+      <title>Teaching</title>
+      <link>https://egurtzegi.github.io/teaching/</link>
+    </image>
+    
+    <item>
+      <title>Euskararen Fonetika eta Fonologia (UPPA)</title>
+      <link>https://egurtzegi.github.io/teaching/euskalfono/</link>
+      <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://egurtzegi.github.io/teaching/euskalfono/</guid>
+      <description>&lt;p&gt;Honakoa euskararen fonetika eta fonologia lantzen dituen sarrera kurtsoa da. Hasteko, oinarrizko kontzeptuak aurkeztuko ditugu, ondoren euskararen bereizitasunak ikusteko. Euskararen segmentuak, silaba egitura eta azentuera mota ezberdinak aurkeztuko dira. Euskararen hots ezberdinak transkribatzen ikasiko dugu, eta euskaraz aurki daitezkeen txandakatze ezberdinak aztertu. Azkenik, deskribapen eta analisi akustikoaren sarrera xume bat egingo dugu Praat programaren bidez.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;egitasmoa&#34;&gt;Egitasmoa&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;2020ko gaitegia eta informazio orokorra &lt;a href=&#34;egitasmoa.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;gaiak&#34;&gt;Gaiak&lt;/h1&gt;
+&lt;h2 id=&#34;1--gaia-oinarrizko-zenbait-konzeptu&#34;&gt;1.- Gaia: Oinarrizko zenbait konzeptu&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Klasean erabiltako filminak &lt;a href=&#34;1GAIA.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/li&gt;&lt;/li&gt;
+&lt;li&gt;IPA (Nazioarteko Alfabeto Fonetikoa): Taula osoa frantsesez &lt;a href=&#34;IPA_Kiel_2019_full_fra.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;2--gaia-euskararen-fonologia&#34;&gt;2.- Gaia: Euskararen fonologia&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Klasean erabiltako filminak &lt;a href=&#34;2GAIA.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;IPA (Nazioarteko Alfabeto Fonetikoa): Kontsonanteen taula euskaraz &lt;a href=&#34;KontsonanteakAFIrenArabera.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;3--gaia-txandakatzeak&#34;&gt;3.- Gaia: Txandakatzeak&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Klasean erabiltako filminak &lt;a href=&#34;3GAIA.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;4--gaia-azentua-eta-prosodia&#34;&gt;4.- Gaia: Azentua eta prosodia&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Klasean erabiltako filminak &lt;a href=&#34;4GAIA.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;ariketak&#34;&gt;Ariketak&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;ariketa &lt;a href=&#34;ARIKETAK-1.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;ariketa &lt;a href=&#34;ARIKETAK-2.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;lan idatzia &lt;a href=&#34;AukeratzekoTestuak.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sound Change (UPV/EHU)</title>
+      <link>https://egurtzegi.github.io/teaching/soundchange/</link>
+      <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://egurtzegi.github.io/teaching/soundchange/</guid>
+      <description>&lt;p&gt;This class offers an accessible introduction to the concept of sound change and the different phonological processes it encompasses, using examples from a wide range of languages which can be adapted to the particular interests of the attending students. Several typologies of phonetically natural sound change will be discussed and compared in order to present a comprehensible outline of how the sounds of the world&amp;rsquo;s languages change over time.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;course-topics&#34;&gt;Course topics:&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Syllabus 2020 &lt;a href=&#34;Syllabus.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;1--introduction-to-variation-and-historical-change&#34;&gt;1.- Introduction to variation and historical change&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Appendix Probi &lt;a href=&#34;AppendixProbi.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/li&gt;&lt;/li&gt;
+&lt;li&gt;Cantar de Mio Cid &lt;a href=&#34;MioCid.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt; &lt;a href=&#34;01r.mp3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[mp3]&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;2--neogrammarian-sound-change&#34;&gt;2.- Neogrammarian sound change&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;1st Reading&lt;/li&gt;
+&lt;li&gt;Sturtevant&amp;rsquo;s Law of Waterloo &lt;a href=&#34;Sturtevant-Waterloo.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[slides]&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;3--kinds-of-sound-change&#34;&gt;3.- Kinds of sound change&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;2nd Reading&lt;/li&gt;
+&lt;li&gt;Kinds of sound change &lt;a href=&#34;KindsofSC.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[slides]&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;4--modern-typologies-of-sound-change&#34;&gt;4.- Modern typologies of sound change&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;3rd Reading&lt;/li&gt;
+&lt;li&gt;4th Reading&lt;/li&gt;
+&lt;li&gt;Typologies of sound change &lt;a href=&#34;TypologiesofSC.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[slides]&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;5--phonetic-motivation-in-sound-change&#34;&gt;5.- Phonetic motivation in sound change&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;5th Reading&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;6--models-of-linguistic-diversification&#34;&gt;6.- Models of linguistic diversification&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;6th Reading&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;7--phases-of-sound-change&#34;&gt;7.- Phases of sound change&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Optional Reading&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;exercices&#34;&gt;Exercices&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;set of exercices &lt;a href=&#34;TraskExercices1.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;set of exercices &lt;a href=&#34;TraskExercices2.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;set of exercices &lt;a href=&#34;CampbellExercices.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
