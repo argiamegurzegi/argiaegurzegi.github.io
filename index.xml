@@ -5,12 +5,55 @@
     <link>https://egurtzegi.github.io/</link>
       <atom:link href="https://egurtzegi.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Ander Egurtzegi</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 06 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://egurtzegi.github.io/img/avatar.jpg</url>
       <title>Ander Egurtzegi</title>
       <link>https://egurtzegi.github.io/</link>
     </image>
+    
+    <item>
+      <title>Euskararen Fonetika eta Fonologia (UPPA)</title>
+      <link>https://egurtzegi.github.io/teaching/euskalfono/</link>
+      <pubDate>Fri, 06 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://egurtzegi.github.io/teaching/euskalfono/</guid>
+      <description>&lt;p&gt;Honakoa euskararen fonetika eta fonologia lantzen dituen sarrera kurtsoa da. Hasteko, oinarrizko kontzeptuak aurkeztuko ditugu, ondoren euskararen bereizitasunak ikusteko. Euskararen segmentuak, silaba egitura eta azentuera mota ezberdinak aurkeztuko dira. Euskararen hots ezberdinak transkribatzen ikasiko dugu, eta euskaraz aurki daitezkeen txandakatze ezberdinak aztertu. Azkenik, deskribapen eta analisi akustikoaren sarrera xume bat egingo dugu Praat programaren bidez.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;egitasmoa&#34;&gt;Egitasmoa&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;2022ko gaitegia eta informazio orokorra &lt;a href=&#34;egitasmoa.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;gaiak&#34;&gt;Gaiak&lt;/h1&gt;
+&lt;h2 id=&#34;1--gaia-oinarrizko-zenbait-konzeptu&#34;&gt;1.- Gaia: Oinarrizko zenbait konzeptu&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Klasean erabiltako filminak &lt;a href=&#34;1GAIA.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/li&gt;&lt;/li&gt;
+&lt;li&gt;IPA (Nazioarteko Alfabeto Fonetikoa): Taula osoa euskaraz &lt;a href=&#34;IPA_Kiel_2021_full_eus.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;IPA (Nazioarteko Alfabeto Fonetikoa): Taula osoa frantsesez &lt;a href=&#34;IPA_Kiel_2019_full_fra.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;2--gaia-euskararen-fonologia&#34;&gt;2.- Gaia: Euskararen fonologia&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Klasean erabiltako filminak &lt;a href=&#34;2GAIA.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;IPA (Nazioarteko Alfabeto Fonetikoa): Kontsonanteen taula euskaraz &lt;a href=&#34;KontsonanteakAFIrenArabera.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;3--gaia-txandakatzeak&#34;&gt;3.- Gaia: Txandakatzeak&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Klasean erabiltako filminak &lt;a href=&#34;3GAIA.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;4--gaia-azentua-eta-prosodia&#34;&gt;4.- Gaia: Azentua eta prosodia&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Klasean erabiltako filminak &lt;a href=&#34;4GAIA.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;ariketak&#34;&gt;Ariketak&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;ariketa &lt;a href=&#34;ARIKETAK-1.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;ariketa &lt;a href=&#34;ARIKETAK-2.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;lan idatzia &lt;a href=&#34;AukeratzekoTestuak.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+</description>
+    </item>
     
     <item>
       <title>Modern approaches to diachronic phonology applied to Basque (MADPAB)</title>
@@ -94,48 +137,6 @@
 &lt;li&gt;Egurtzegi, A. 2022 “Phonological features conditioned by contact with Gascon in Zuberoan Basque”. Basque Summer Tutorial in Language Documentation (U. Bordeaux-Montaigne &amp;amp; Uni Konstanz, Larraine, France).&lt;/li&gt;
 &lt;li&gt;Egurtzegi, A. 2022. “When time is the key: Analyzing time-varying data in laboratory phonology”. LPRG - Laboratory Phonology Research Group (Université Paris Cité, Paris, France).&lt;/li&gt;
 &lt;li&gt;Egurtzegi, A. 2022. “Andalusian pre-to-post-aspiration and the life cycle of sound change”. Workshop on Sound Change. Departamento de Lengua Española y Lingüística General (UNED, Madrid, Spain).&lt;/li&gt;
-&lt;/ol&gt;
-&lt;hr&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Euskararen Fonetika eta Fonologia (UPPA)</title>
-      <link>https://egurtzegi.github.io/teaching/euskalfono/</link>
-      <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://egurtzegi.github.io/teaching/euskalfono/</guid>
-      <description>&lt;p&gt;Honakoa euskararen fonetika eta fonologia lantzen dituen sarrera kurtsoa da. Hasteko, oinarrizko kontzeptuak aurkeztuko ditugu, ondoren euskararen bereizitasunak ikusteko. Euskararen segmentuak, silaba egitura eta azentuera mota ezberdinak aurkeztuko dira. Euskararen hots ezberdinak transkribatzen ikasiko dugu, eta euskaraz aurki daitezkeen txandakatze ezberdinak aztertu. Azkenik, deskribapen eta analisi akustikoaren sarrera xume bat egingo dugu Praat programaren bidez.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h1 id=&#34;egitasmoa&#34;&gt;Egitasmoa&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;2020ko gaitegia eta informazio orokorra &lt;a href=&#34;egitasmoa.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h1 id=&#34;gaiak&#34;&gt;Gaiak&lt;/h1&gt;
-&lt;h2 id=&#34;1--gaia-oinarrizko-zenbait-konzeptu&#34;&gt;1.- Gaia: Oinarrizko zenbait konzeptu&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Klasean erabiltako filminak &lt;a href=&#34;1GAIA.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/li&gt;&lt;/li&gt;
-&lt;li&gt;IPA (Nazioarteko Alfabeto Fonetikoa): Taula osoa frantsesez &lt;a href=&#34;IPA_Kiel_2019_full_fra.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;2--gaia-euskararen-fonologia&#34;&gt;2.- Gaia: Euskararen fonologia&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Klasean erabiltako filminak &lt;a href=&#34;2GAIA.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;IPA (Nazioarteko Alfabeto Fonetikoa): Kontsonanteen taula euskaraz &lt;a href=&#34;KontsonanteakAFIrenArabera.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;3--gaia-txandakatzeak&#34;&gt;3.- Gaia: Txandakatzeak&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Klasean erabiltako filminak &lt;a href=&#34;3GAIA.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;4--gaia-azentua-eta-prosodia&#34;&gt;4.- Gaia: Azentua eta prosodia&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Klasean erabiltako filminak &lt;a href=&#34;4GAIA.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h1 id=&#34;ariketak&#34;&gt;Ariketak&lt;/h1&gt;
-&lt;ol&gt;
-&lt;li&gt;ariketa &lt;a href=&#34;ARIKETAK-1.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;ariketa &lt;a href=&#34;ARIKETAK-2.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;lan idatzia &lt;a href=&#34;AukeratzekoTestuak.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;hr&gt;
 </description>
